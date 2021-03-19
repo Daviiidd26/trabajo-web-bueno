@@ -1,0 +1,12 @@
+ #blog h3{
+	 text-align:center
+ }
+ 
+ #blog  .contenedor{
+	 display:flex;
+	 justify-content:center;
+	 flex-wrap: wrap;
+ }
+ #blog pav{
+	 margin:15px;
+ }
